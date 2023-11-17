@@ -103,7 +103,7 @@ Event.create!([
   ["BugSmash", "bugsmash.png"],
   ["Hackathon", "hackathon.png"],
   ["Kata Camp", "katacamp.png"],
-  ["Coffee 'n Code", "coffee-code"],
+  ["Coffee 'n Code", "coffee-code.png"],
   ["Rails User Group", "rails-user-group.png"],
   ["Ruby User Group", "ruby-user-group.png"],
   ["5-Minute Lightning Talks", "lightning.png"],
